@@ -1,0 +1,23 @@
+Circuit: * C:\Users\kuldeep\OneDrive\Documents\Project PE1.asc
+
+Error on line 537 : r:u1:1:_r1 u1:1:n02098 u1:1:trg 1.462* 0.342 
+	 Unknown parameter "*"
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Apr 20 09:06:00 2023
+Total elapsed time: 0.725 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 111398
+traniter = 111376
+tranpoints = 32585
+accept = 25721
+rejected = 6864
+matrix size = 61
+fillins = 64
+solver = Normal
+Matrix Compiler1: 5.60 KB object code size  1.2/0.6/[0.3]
+Matrix Compiler2: 5.20 KB object code size  0.4/0.6/[0.4]
+
